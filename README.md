@@ -1,4 +1,3 @@
-[RF_Pathway_Dashboard.html](https://github.com/user-attachments/files/26962038/RF_Pathway_Dashboard.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -1122,5 +1121,3 @@ render();
 </script>
 </body>
 </html>
-
-
